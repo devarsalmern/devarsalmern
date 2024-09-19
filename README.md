@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
-<div align="center"> 
-  <img src="https://github.com/devarsalmern/devarsalmern/blob/main/my.webp"> 
+<div align="center">
+  <img src="https://github.com/devarsalmern/devarsalmern/blob/main/my.webp" width="1000" height="250">
 </div>
+
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
