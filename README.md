@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arslan Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
-
+<p align-"left"› <img src-"https://komarev.com/ghpvc/?username-jaiswalad1246&1abel-ProfileX20views&color=ße75b6&style-flat" alt-"jaiswalad1246" /></p>
 - 🔭 I’m currently working on [Job Listing Platform](https://berozgaar1.netlify.app/)
 
 - 🌱 I’m currently learning **Full Stack using MERN Stack**
