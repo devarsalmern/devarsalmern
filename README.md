@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **developerarslan4@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/devarsalmern/myresume/blob/main/ArslanAliResume.pdf](https://github.com/devarsalmern/myresume/blob/main/ArslanAliResume.pdf)
+- 📄 Know about my experiences (https://github.com/devarsalmern/myresume/blob/main/ArslanAliResume.pdf)
 
 - ⚡ Fun fact **I'm still learning a lot of new things😉**
 
