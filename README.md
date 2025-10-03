@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack using MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://devarsalmern.netlify.app/](https://devarsalmern.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://devarsalmern.vercel.app/](https://devarsalmern.vercel.app/)
 
 - 📫 How to reach me **developerarslan4@gmail.com**
 
